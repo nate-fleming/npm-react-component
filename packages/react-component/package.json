@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:nate-fleming/npm-react-component.git"
+    "url": "github.com/nate-fleming/npm-react-component"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -36,5 +36,5 @@
     "babel-preset-env": "^1.5.1",
     "webpack-cli": "^3.3.9"
   },
-  "gitHead": "bf839681fa6ee36d578f40eaf001e05600b04090"
+  "gitHead": "815a7c431c0c31e020dad3ff6d3f95498b7b70ca"
 }
