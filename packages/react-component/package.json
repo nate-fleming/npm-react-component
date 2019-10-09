@@ -1,5 +1,5 @@
 {
-  "name": "react-component",
+  "name": "@nate-fleming/react-component",
   "version": "1.0.0",
   "description": "Put a description here",
   "main": "build/index.js",
@@ -33,5 +33,6 @@
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.5.1",
     "webpack-cli": "^3.3.9"
-  }
+  },
+  "gitHead": "4bd45fc8f9b0767c8312158716ebbc3fe3d03c79"
 }
