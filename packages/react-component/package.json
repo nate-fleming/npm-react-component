@@ -36,5 +36,5 @@
     "babel-preset-env": "^1.5.1",
     "webpack-cli": "^3.3.9"
   },
-  "gitHead": "c74caf535cce458fcd1102e47477ef6b010077b6"
+  "gitHead": "9316812def5b0a5c5568bbac012811beebbcc00a"
 }
