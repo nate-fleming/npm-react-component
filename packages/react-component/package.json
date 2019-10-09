@@ -1,5 +1,5 @@
 {
-  "name": "react-component",
+  "name": "test-component",
   "version": "1.0.2",
   "description": "Put a description here",
   "main": "build/index.js",
@@ -15,6 +15,10 @@
     "publishConfig": {
       "registry": "https://npm.pkg.github.com/"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/nate-fleming/npm-react-component.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -34,5 +38,5 @@
     "babel-preset-env": "^1.5.1",
     "webpack-cli": "^3.3.9"
   },
-  "gitHead": "f6bcb4eff4454778ac7eb8a1774537f538b433f4"
+  "gitHead": "c91790598ee4505b3d4a9d80fe1a29cacd79557c"
 }
