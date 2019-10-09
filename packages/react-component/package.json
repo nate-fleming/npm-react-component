@@ -12,9 +12,7 @@
     "webpack": "4.41.0"
   },
   "publishConfig": {
-    "publishConfig": {
-      "registry": "https://npm.pkg.github.com/"
-    }
+    "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
@@ -38,5 +36,5 @@
     "babel-preset-env": "^1.5.1",
     "webpack-cli": "^3.3.9"
   },
-  "gitHead": "c91790598ee4505b3d4a9d80fe1a29cacd79557c"
+  "gitHead": "5c12741b1f30aac40acb91dbeaeda0d903368208"
 }
