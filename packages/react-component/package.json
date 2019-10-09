@@ -1,6 +1,6 @@
 {
   "name": "@nate-fleming/react-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Put a description here",
   "main": "build/index.js",
   "peerDependencies": {
