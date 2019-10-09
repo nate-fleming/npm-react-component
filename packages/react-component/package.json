@@ -1,6 +1,6 @@
 {
   "name": "@nate-fleming/test-component",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Put a description here",
   "main": "build/index.js",
   "peerDependencies": {
