@@ -7,7 +7,6 @@
     "react": "16.10.2"
   },
   "dependencies": {
-    "react": "16.10.2",
     "styled-components": "^4.4.0",
     "webpack": "4.41.0"
   },
@@ -36,5 +35,5 @@
     "babel-preset-env": "^1.5.1",
     "webpack-cli": "^3.3.9"
   },
-  "gitHead": "45a564dfd2e2e7d41db7a99c2d3de8537f4d7bed"
+  "gitHead": "994c125275868e526b4fe136f400d7872c12961f"
 }
