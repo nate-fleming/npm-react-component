@@ -15,7 +15,7 @@ const Wrapper = styled.section`
 function testComponent() {
   return (
     <Wrapper>
-      <Title>Hello World! from Github Package Registry</Title>
+      <Title>Hello World! this is from Github Package Registry</Title>
     </Wrapper>
   );
 }
